@@ -8,11 +8,11 @@ Data Visualizations ->
 2.Line Chart
 3.Scatter Plot
 4.Histogram
-5.Pie
+5.Pie.
 STATS:-
 1.Percentiles
 2.Normal Distribution
-3..Zscore
+3.Zscore.
 Regression Models:-
 1.Simple Linear Regression
 2.Multiple Linear Regression 
